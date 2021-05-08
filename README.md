@@ -21,8 +21,8 @@
 </h2> Puede Generar un enlace único exclusivo con token:</p>
 
 <p style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ipxxx999/verifica_correo_mail/main/logo.png" 
-alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="1123" height="653" />
+<img src="https://raw.githubusercontent.com/ipxxx999/Acortador_URL_PHP/main/logo.png" 
+alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="571" height="194" />
 </p>
 <p>Cualquier duda, d&#233;jame un email aqu&#237; o escribe a: Tutovideo2000@gmail.com</p>
 

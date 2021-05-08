@@ -1,13 +1,13 @@
 # Acortador_URL_PHP
 
-<h2> comprobar la validez de correo electrónico </h2>
+<h2> Acortador de URL PHP simple </h2>
 
 
 <h2>Facil de usar </h2>
 
-<h2>Tus Usuarios Estab Obligados A verificar el correo</h2>
+<h2>Tus Propio acortador de url Si estás buscando un acortador elegante</h2>
 
-<h2>Descarga en "PHP y SQL"</h2>
+<h2>Creado en "PHP y SQL"</h2>
 
 
 <blockquote>
